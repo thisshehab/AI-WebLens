@@ -21,8 +21,8 @@ AI-WebLens uses advanced AI algorithms to analyze the visual and structural elem
 
 ### Prerequisites
 
-- List any prerequisites here
-- Such as software versions, API keys, etc.
+- Docker.
+- Git.
 
 ### Installation
 via docker
