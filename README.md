@@ -32,6 +32,9 @@ clone the rpository:
 ```bash
 git clone https://github.com/thisshehab/AI-WebLens.git
 cd AI-WebLens
-# build the image
+sudo docker build -t ai-weblens .
+```
+build the image
+```bash
 sudo docker build -t ai-weblens .
 ```
