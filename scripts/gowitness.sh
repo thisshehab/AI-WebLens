@@ -1,0 +1,1 @@
+gowitness file --disable-db --delay 1 --header "User-Agent: Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36" -t 200 --timeout 5 -f output/targets.txt -P output/images

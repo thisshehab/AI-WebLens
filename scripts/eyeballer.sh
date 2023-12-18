@@ -1,0 +1,1 @@
+cd eyeballer; python3 eyeballer.py --weights ../input/bishop-fox-pretrained-v3.h5 predict ../output/images; mv results.* ../output/eyeballer; cd ..;
