@@ -6,7 +6,7 @@ AI-WebLens is an innovative AI-driven tool that automates the process of capturi
 
 ## Features
 
-- **404 Detection**: Identifies '404 Custom Not Found' pages.
+- **404 Detection**: Identifies '404 Custom Not Found' pages that returns 200 status code.
 - **Login Page Recognition**: Spots login interfaces.
 - **Web Application Identification**: Discerns complex web applications.
 - **Vintage Design Analysis**: Detects outdated or 'old-looking' designs.
@@ -16,12 +16,6 @@ AI-WebLens is an innovative AI-driven tool that automates the process of capturi
 
 AI-WebLens uses advanced AI algorithms to analyze the visual and structural elements of web page screenshots. It categorizes each page into one of the predefined classes with remarkable accuracy.
 
-## Applications
-
-- **Web Development and Maintenance**: Find and fix 404 errors, update old designs.
-- **Market Research and Analysis**: Analyze the web presence of competitors or potential partners.
-- **Domain Investment and Acquisition**: Identify valuable parked domains.
-- **User Experience and Security Auditing**: Review various login interfaces.
 
 ## Getting Started
 
@@ -31,11 +25,13 @@ AI-WebLens uses advanced AI algorithms to analyze the visual and structural elem
 - Such as software versions, API keys, etc.
 
 ### Installation
+via docker
 
-Provide step-by-step series of examples and explanations about how to get a development environment running.
+clone the rpository:
 
 ```bash
-# Example installation step
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-# further installation steps...
+git clone https://github.com/thisshehab/AI-WebLens.git
+cd AI-WebLens
+# build the image
+sudo docker build -t ai-weblens .
+```
