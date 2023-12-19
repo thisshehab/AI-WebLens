@@ -25,7 +25,7 @@ AI-WebLens uses advanced AI algorithms to analyze the visual and structural elem
 - Git.
 
 ### Installation
-via docker
+Using docker
 
 clone the rpository:
 
