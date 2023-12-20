@@ -2,7 +2,7 @@
 The AI-Powered Web Classification Solution
 # AI-WebLens
 
-AI-WebLens is an innovative AI-driven tool that automates the process of capturing and classifying website screenshots. It's designed to help businesses, web analysts, and developers quickly categorize web pages into distinct types such as 404 errors, login pages, web applications, outdated designs, and parked domains.
+AI-WebLens is an innovative AI-driven tool that automates the process of capturing and classifying website screenshots. It's designed to help businesses, web analysts, and developers quickly categorize web pages into distinct types such as 404 errors, login pages, web applications, outdated designs, and parked domains
 
 ## Features
 
